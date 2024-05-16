@@ -2,8 +2,8 @@
 
 [![自动 CI 和构建工具](https://github.com/aboutmydreams/quick-pylib/actions/workflows/ci-test.yml/badge.svg)](https://github.com/aboutmydreams/quick-pylib/actions/workflows/ci-test.yml)
 [![自动发布到 PyPI 和 GitHub 发布](https://github.com/aboutmydreams/quick-pylib/actions/workflows/release.yml/badge.svg)](https://github.com/aboutmydreams/quick-pylib/actions/workflows/release.yml)
-[![label](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-ZH-brightgreen)](https://github.com/aboutmydreams/quick-lib/blob/main/README_ZH.md)
-[![label](https://img.shields.io/badge/English-EN-brightgreen)](https://github.com/aboutmydreams/quick-lib/blob/main/README.md)
+[![label](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-ZH-brightgreen)](https://github.com/aboutmydreams/quick-pylib/blob/main/README_ZH.md)
+[![label](https://img.shields.io/badge/English-EN-brightgreen)](https://github.com/aboutmydreams/quick-pylib/blob/main/README.md)
 [![发布版本](https://img.shields.io/github/release/aboutmydreams/quick-pylib.svg)](https://github.com/aboutmydreams/quick-pylib/releases)
 [![访问量](https://komarev.com/ghpvc/?username=aboutmydreams&repo=quick-pylib)](https://github.com/aboutmydreams/quick-pylib)
 [![许可证](https://img.shields.io/github/license/aboutmydreams/quick-pylib.svg)](https://github.com/aboutmydreams/quick-pylib/license)

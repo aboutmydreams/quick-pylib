@@ -2,6 +2,8 @@
 
 [![Auto CI and Build Tools](https://github.com/aboutmydreams/quick-pylib/actions/workflows/ci-test.yml/badge.svg)](https://github.com/aboutmydreams/quick-pylib/actions/workflows/ci-test.yml)
 [![Auto Publish to PyPI and GitHub Release](https://github.com/aboutmydreams/quick-pylib/actions/workflows/release.yml/badge.svg)](https://github.com/aboutmydreams/quick-pylib/actions/workflows/release.yml)
+[![label](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-ZH-brightgreen)](https://github.com/aboutmydreams/quick-lib/blob/main/README_ZH.md)
+[![label](https://img.shields.io/badge/English-EN-brightgreen)](https://github.com/aboutmydreams/quick-lib/blob/main/README.md)
 [![Release Version](https://img.shields.io/github/release/aboutmydreams/quick-pylib.svg)](https://github.com/aboutmydreams/quick-pylib/releases)
 [![Visits](https://komarev.com/ghpvc/?username=aboutmydreams&repo=quick-pylib)](https://github.com/aboutmydreams/quick-pylib)
 [![License](https://img.shields.io/github/license/aboutmydreams/quick-pylib.svg)](https://github.com/aboutmydreams/quick-pylib/license)

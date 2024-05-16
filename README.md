@@ -36,9 +36,10 @@ A python library development template that is quick to release and easy to maint
 
 ### PreCommit setting(If you want to automatically update version)
 
-In the terminal, enter vim `.git/hooks/pre-commit` to open the pre-commit hook script. Add the following lines to the file: #!/bin/bash
+In the terminal, enter `vim .git/hooks/pre-commit` to open the pre-commit hook script. Add the following lines to the file: 
 
 ```bash
+#!/bin/bash
 # Run the update_version.py script before committing.
 python3 update_version.py
 
